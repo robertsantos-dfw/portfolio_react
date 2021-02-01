@@ -15,7 +15,7 @@ function Projects() {
             >
               <img
                 class="img-fluid mb-3 mb-lg-0"
-                src="assets/CoinFlip.png"
+                src="../assets/CoinFlip.png"
                 alt=""
               />
             </a>
