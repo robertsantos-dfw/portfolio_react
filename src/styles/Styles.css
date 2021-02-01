@@ -10312,7 +10312,8 @@ body {
 }
 
 .contact-section {
-  padding-top: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 .contact-section .card {
   border: 0;
