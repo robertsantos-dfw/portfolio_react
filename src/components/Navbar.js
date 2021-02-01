@@ -9,7 +9,7 @@ function Navbar() {
         <a className="navbar-brand js-scroll-trigger" href="#page-top">
           Robert Santos
         </a>
-        <NavDropdown title="Menu" id="basic-nav-dropdown">
+        <NavDropdown title="Menu" id="basic-nav-dropdown navbarResponsive" >
           <NavDropdown.Item href="#about">About</NavDropdown.Item>
           <NavDropdown.Item href="#projects">Projects</NavDropdown.Item>
           <NavDropdown.Item href="#contact">Contact</NavDropdown.Item>
