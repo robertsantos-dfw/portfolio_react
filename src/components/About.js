@@ -5,6 +5,7 @@ import '../styles/Styles.css';
 function About() {
   return (
     <section className="about" id="about">
+        <h1 className="text-white mb-4 text-center mx-auto"> About</h1>
       <div className="container">
         <img
           className="img-fluid"
@@ -13,9 +14,9 @@ function About() {
         />
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h2 className="text-white mb-4">
+            {/* <h2 className="text-white mb-4">
               What has Robert Santos done in his past?
-            </h2>
+            </h2> */}
             <p className="text-white mb-4">
               A talented and decisive leader with 15 years of managerial
               experience including client relations, technical support,

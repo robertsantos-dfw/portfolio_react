@@ -9,7 +9,7 @@ function Projects() {
   return (
     <section class="projects-section bg-light" id="projects">
       <div class="container">
-        {/* <!-- Featured Project Row--> */}
+      <h1 className="text-dark mb-4 mt-0 text-center mx-auto">Projects</h1>
         <div class="row align-items-center no-gutters mb-4 mb-lg-5">
           <div class="col-xl-8 col-lg-7">
             <a
