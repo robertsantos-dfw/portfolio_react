@@ -1,5 +1,9 @@
 import React from "react";
-import '../styles/MasterStyle.css';
+import '../styles/Styles.css';
+import CoinFlip from "../assets/CoinFlip.png";
+import weatherapp from "../assets/weatherapp.png";
+import WorkDayScheduler from "../assets/WorkDayScheduler.gif";
+
 
 function Projects() {
   return (
@@ -15,7 +19,7 @@ function Projects() {
             >
               <img
                 class="img-fluid mb-3 mb-lg-0"
-                src="../assets/CoinFlip.png"
+                src={CoinFlip}
                 alt=""
               />
             </a>
@@ -44,7 +48,7 @@ function Projects() {
               rel="noopener noreferrer"
               href="https://robertsantos-dfw.github.io/WeatherDashboard/"
             >
-              <img class="img-fluid" src="assets/weatherapp.png" alt="" />
+              <img class="img-fluid" src={weatherapp} alt="" />
             </a>
           </div>
           <div class="col-lg-6">
@@ -70,9 +74,9 @@ function Projects() {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://robertsantos-dfw.github.io/11-Note_Taker/"
+              href="https://robertsantos-dfw.github.io/05-DayPlanner/"
             >
-              <img class="img-fluid" src="assets/notetaker.png" alt="" />
+              <img class="img-fluid" src={WorkDayScheduler} alt="" />
             </a>
           </div>
           <div class="col-lg-6 order-lg-first">
