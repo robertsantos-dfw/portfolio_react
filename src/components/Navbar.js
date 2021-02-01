@@ -12,9 +12,7 @@ function Navbar() {
         <NavDropdown title="Menu" id="basic-nav-dropdown">
           <NavDropdown.Item href="#about">About</NavDropdown.Item>
           <NavDropdown.Item href="#projects">Projects</NavDropdown.Item>
-          <NavDropdown.Item href="#action/3.3">Contact</NavDropdown.Item>
-          <NavDropdown.Divider />
-          <NavDropdown.Item href="#contact">Separated link</NavDropdown.Item>
+          <NavDropdown.Item href="#contact">Contact</NavDropdown.Item>
         </NavDropdown>
         <div className="collapse navbar-collapse" id="navbarResponsive">
           <ul className="navbar-nav ml-auto">
