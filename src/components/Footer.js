@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../assets/Resume.pdf";
 
 export default function Footer() {
   return (
@@ -18,6 +19,9 @@ export default function Footer() {
           href="https://stackoverflow.com/users/14396954/robertsantos-dfw"
         >
           <i class="fab fa-stack-overflow"></i>
+        </a>
+        <a class="mx-2" href={Resume} download>
+          <i class="fas fa-file-download"></i>
         </a>
       </div>
     </footer>

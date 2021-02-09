@@ -1,43 +1,37 @@
 import React from "react";
-import '../styles/Styles.css';
-
+import "../styles/Styles.css";
 
 function About() {
   return (
     <section className="about" id="about">
-        <h1 className="text-white mb-4 text-center mx-auto"> About</h1>
+      <h1 className="text-white mb-4 text-center mx-auto"> About</h1>
       <div className="container">
-        <img
-          className="img-fluid"
-          src="../assets/"
-          alt=""
-        />
+        <img className="img-fluid" src="../assets/" alt="" />
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            {/* <h2 className="text-white mb-4">
-              What has Robert Santos done in his past?
-            </h2> */}
             <p className="text-white mb-4">
-              A talented and decisive leader with 15 years of managerial
-              experience including client relations, technical support,
-              administrative and business processing for Sales, Support, and
-              Development departments. Proven capability to develop, and
-              execute, strategic and long-range operational objectives in an IT
-              Systems/Development role. Major strengths are project management,
-              relationship management, software implementation, problem
-              solving/troubleshooting, multi-tasking, and data analysis.
+              Full Stack Developer with hands-on knowledge and experience with
+              front/back-end development technologies, libraries, and
+              frameworks.
             </p>
             <p className="text-white mb-4">
-              I love working with customers and technology. Putting those two
-              together, collaborating with teams, and implementing software is a
-              passion that I've grown into. At times it feels I'm not really
-              working but doing something I love.
+              Experience within a DevOps environment using Agile methodology to
+              manage progress, collaboration with stakeholders, and continuous
+              improvements. Utilizing products such as JIRA and GitHub Kanbans
+              to track stages, test, deployment, and ownership throughout
+              sprints.
             </p>
             <p className="text-white mb-4">
-              Very passionate about learning new software and how it can improve
-              someone's life or makes processes much more efficient.
-              Streamlining processes is also a nice perk with the right tools
-              and with the right people behind them.{" "}
+              Five plus years managing and improving the software implementation
+              process for SaaS products. Congregating project demands within the
+              operations team to project resources, refining customer needs, and
+              working with Customer Success team to boost customer lifetime
+              value.
+            </p>
+            <p className="text-white mb-4">
+              Major strengths are project management, relationship management,
+              software implementation, problem solving/troubleshooting,
+              multi-tasking, databases, and data analysis.
             </p>
           </div>
         </div>
