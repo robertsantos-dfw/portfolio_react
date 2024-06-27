@@ -10,28 +10,17 @@ function About() {
         <div className="row">
           <div className="col-lg-8 mx-auto">
             <p className="text-white mb-4">
-              Full Stack Developer with hands-on knowledge and experience with
-              front/back-end development technologies, libraries, and
-              frameworks.
+            My career over the last 10 years has been dedicated to working with SaaS platforms and B2B businesses. I have primarily worked with startup companies in the document management and vaccine management spaces. 
             </p>
             <p className="text-white mb-4">
-              Experience within a DevOps environment using Agile methodology to
-              manage progress, collaboration with stakeholders, and continuous
-              improvements. Utilizing products such as JIRA and GitHub Kanbans
-              to track stages, test, deployment, and ownership throughout
-              sprints.
+            Education has played a critical role in my development. With certifications in Product Management and Full Stack Web Development from the University of Texas and Southern Methodist University, respectively, I’ve continually sought to stay ahead of industry trends and best practices. These programs deepened my knowledge of agile methodologies, UX/UI design principles, and modern software development techniques.
             </p>
             <p className="text-white mb-4">
-              Five plus years managing and improving the software implementation
-              process for SaaS products. Congregating project demands within the
-              operations team to project resources, refining customer needs, and
-              working with Customer Success team to boost customer lifetime
-              value.
+            Today, I am dedicated to leveraging my expertise as a Technical Product Manager to create products that not only meet market demands but also delight users. I believe in the power of empathy, continuous learning, and innovation to drive success. I’ve honed my skills in driving product strategy, managing cross-functional teams, and ensuring that every product meets and exceeds customer expectations. My experience spans various industries, but my focus has always been on creating solutions that address real user needs and deliver tangible value.
             </p>
             <p className="text-white mb-4">
-              Major strengths are project management, relationship management,
-              software implementation, problem solving/troubleshooting,
-              multi-tasking, databases, and data analysis.
+              Major strengths are Product Development, Process Improvement, User-Centered Design, Agile and Scrum Methodologies, Relationship Management,
+              Software Implementation, Problem Solving, Product Ownership, and Leadership.
             </p>
           </div>
         </div>
