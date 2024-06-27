@@ -8,7 +8,7 @@ export default function Masthead() {
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase">Software Enthusiast</h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5">
-            Skilled Technical Product Manager who builds impactful and insightful Software.{" "}
+            Skilled Technical Product Manager who builds Impactful and Insightful Software.{" "}
           </h2>
         </div>
       </div>
