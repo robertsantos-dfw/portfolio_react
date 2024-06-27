@@ -11,8 +11,8 @@
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "require": "^2.4.20",
+    "react-scripts": "^5.0.1",
+    "require": "^0.4.4",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -42,6 +42,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
