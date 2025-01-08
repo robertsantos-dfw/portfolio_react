@@ -7,7 +7,7 @@ export default function Footer() {
       <div class="social d-flex justify-content-center">
         <a
           class="mx-2"
-          href="https://www.linkedin.com/in/robert-santos-12512169/"
+          href="https://www.linkedin.com/in/robert-santos-dfw/"
         >
           <i class="fab fa-linkedin"></i>
         </a>
