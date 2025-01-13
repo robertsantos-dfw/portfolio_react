@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Styles.css";
 
-function About() {
+function PMExperience() {
   return (
     <section className="about" id="about">
       <h1 className="text-white mb-4 text-center mx-auto"> Product Manager </h1>
@@ -31,4 +31,4 @@ function About() {
   );
 }
 
-export default About;
+export default PMExperience;
