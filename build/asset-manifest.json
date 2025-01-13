@@ -1,28 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio_react/static/css/main.e53cd4a3.chunk.css",
-    "main.js": "/portfolio_react/static/js/main.99503c53.chunk.js",
-    "main.js.map": "/portfolio_react/static/js/main.99503c53.chunk.js.map",
-    "runtime-main.js": "/portfolio_react/static/js/runtime-main.272da58a.js",
-    "runtime-main.js.map": "/portfolio_react/static/js/runtime-main.272da58a.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/portfolio_react/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.f29747bc.chunk.js": "/portfolio_react/static/js/2.f29747bc.chunk.js",
-    "static/js/2.f29747bc.chunk.js.map": "/portfolio_react/static/js/2.f29747bc.chunk.js.map",
+    "main.css": "/portfolio_react/static/css/main.67b8b984.css",
+    "main.js": "/portfolio_react/static/js/main.2a02d3d3.js",
+    "static/media/ProductManagerImage.png": "/portfolio_react/static/media/ProductManagerImage.ce70606933871a85145c.png",
+    "static/media/WorkDayScheduler.gif": "/portfolio_react/static/media/WorkDayScheduler.5b3f62cdcc4cafa34102.gif",
+    "static/media/james-harrison-vpOeXr5wmR4-unsplash.jpg": "/portfolio_react/static/media/james-harrison-vpOeXr5wmR4-unsplash.9f8245c102d1d13708a3.jpg",
+    "static/media/bg-signup.jpg": "/portfolio_react/static/media/bg-signup.5b5db83775d4cf5b3133.jpg",
+    "static/media/CoinFlip.png": "/portfolio_react/static/media/CoinFlip.a12d8387872b3d51300f.png",
+    "static/media/bg-masthead.jpg": "/portfolio_react/static/media/bg-masthead.733fe6480d0aff46860c.jpg",
+    "static/media/Resume.pdf": "/portfolio_react/static/media/Resume.0f5ac3d092ead8b0b543.pdf",
+    "static/media/weatherapp.png": "/portfolio_react/static/media/weatherapp.24554080f84e3f76fa93.png",
     "index.html": "/portfolio_react/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/portfolio_react/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.e53cd4a3.chunk.css.map": "/portfolio_react/static/css/main.e53cd4a3.chunk.css.map",
-    "static/js/2.f29747bc.chunk.js.LICENSE.txt": "/portfolio_react/static/js/2.f29747bc.chunk.js.LICENSE.txt",
-    "static/media/CoinFlip.a12d8387.png": "/portfolio_react/static/media/CoinFlip.a12d8387.png",
-    "static/media/Resume.649aed3f.pdf": "/portfolio_react/static/media/Resume.649aed3f.pdf",
-    "static/media/WorkDayScheduler.5b3f62cd.gif": "/portfolio_react/static/media/WorkDayScheduler.5b3f62cd.gif",
-    "static/media/Styles.css": "/portfolio_react/static/media/james-harrison-vpOeXr5wmR4-unsplash.9f8245c1.jpg",
-    "static/media/weatherapp.24554080.png": "/portfolio_react/static/media/weatherapp.24554080.png"
+    "main.67b8b984.css.map": "/portfolio_react/static/css/main.67b8b984.css.map",
+    "main.2a02d3d3.js.map": "/portfolio_react/static/js/main.2a02d3d3.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.272da58a.js",
-    "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.f29747bc.chunk.js",
-    "static/css/main.e53cd4a3.chunk.css",
-    "static/js/main.99503c53.chunk.js"
+    "static/css/main.67b8b984.css",
+    "static/js/main.2a02d3d3.js"
   ]
 }
