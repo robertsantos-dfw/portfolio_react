@@ -3,7 +3,7 @@ import "../styles/Styles.css";
 
 function PMExperience() {
   return (
-    <section className="about" id="about">
+    <section className="pmexperience" id="pmexperience">
       <h1 className="text-white mb-4 text-center mx-auto"> Product Manager </h1>
       <div className="container">
         <img className="img-fluid" src="../assets/" alt="" />
