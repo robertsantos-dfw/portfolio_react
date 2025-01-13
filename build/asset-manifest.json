@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio_react/static/css/main.67b8b984.css",
+    "main.css": "/portfolio_react/static/css/main.56d03f0b.css",
     "main.js": "/portfolio_react/static/js/main.2a02d3d3.js",
     "static/media/ProductManagerImage.png": "/portfolio_react/static/media/ProductManagerImage.ce70606933871a85145c.png",
     "static/media/WorkDayScheduler.gif": "/portfolio_react/static/media/WorkDayScheduler.5b3f62cdcc4cafa34102.gif",
@@ -11,11 +11,11 @@
     "static/media/Resume.pdf": "/portfolio_react/static/media/Resume.0f5ac3d092ead8b0b543.pdf",
     "static/media/weatherapp.png": "/portfolio_react/static/media/weatherapp.24554080f84e3f76fa93.png",
     "index.html": "/portfolio_react/index.html",
-    "main.67b8b984.css.map": "/portfolio_react/static/css/main.67b8b984.css.map",
+    "main.56d03f0b.css.map": "/portfolio_react/static/css/main.56d03f0b.css.map",
     "main.2a02d3d3.js.map": "/portfolio_react/static/js/main.2a02d3d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.67b8b984.css",
+    "static/css/main.56d03f0b.css",
     "static/js/main.2a02d3d3.js"
   ]
 }
